@@ -29,7 +29,10 @@
 
 ### 📫 How to reach me: ...
 
-
+<a href="https://www.linkedin.com/in/handerson-medeiros/">
+   <img alt="Qries" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" alt="LinkedIn" style="vertical-align:top; margin:4px">
+</a>
+                               
 <a href="https://www.linkedin.com/in/handerson-medeiros/">
   <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="LinkedIn" style="vertical-align:top; margin:4px"/>
 </a>
